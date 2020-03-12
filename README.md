@@ -1,2 +1,2 @@
 # abcomm
-Análise do ecosistema HTTPS dos sites da Associação Brasileira de Comércio Eletrônico (Abcomm)
+Primeira versão da análise do ecosistema HTTPS dos sites da Associação Brasileira de Comércio Eletrônico (Abcomm)
